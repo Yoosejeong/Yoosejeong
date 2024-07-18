@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Yoosejeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoosejeong&show_icons=true&theme=radical)
+[![Yoosejeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoosejeong&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoosejeong&layout=compact&custom_title=My&nbsp;Language&nbsp;)](https://github.com/Yoosejeong)
